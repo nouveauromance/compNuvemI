@@ -8,10 +8,10 @@ Apender fundamentos da computação em nuvem, explorar serviços AWS como Amazon
 Prática
 
 ### Disciplina:
-Computação em Nuvem I.
+Computação em Nuvem I
 
 ### Professor:
 Odair Gabriel da Silva
 
 ### Instituição:
-Fatec Diadema Luigi Papaiz 
+Fatec Diadema Luigi Papaiz
